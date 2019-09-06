@@ -1,0 +1,6 @@
+.combo-task {
+    display: flex;
+    justify-items: center;
+
+    border-color: black;
+}

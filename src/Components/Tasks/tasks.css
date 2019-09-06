@@ -1,0 +1,9 @@
+.tasks {
+    height: 600px;
+    width: 1200px;
+    background-color: burlywood;
+    border-radius: 50px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
