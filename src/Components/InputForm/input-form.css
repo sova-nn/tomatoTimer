@@ -1,5 +1,9 @@
 .input-form {
-    width: 600px;
+    width: 800px;
     height: 100px;
-
+    background-color: darkkhaki;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
